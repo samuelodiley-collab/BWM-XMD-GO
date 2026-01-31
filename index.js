@@ -119,7 +119,7 @@ async function initialize() {
             await wait(config.delay * (i + 1));
         }
     }
-    console.log('[BWM-XMD] Boot failed after all retries');
+    console.log('JAY-XMD] Boot failed after all retries');
     process.exit(1);
 }
 
