@@ -1,12 +1,12 @@
 
 
 {
-  "name": "BWM-XMD",
+  "name": "JAY-XMD",
   "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable",
   "keywords": [
     "bot",
     "whatsapp",
-    "BWM-XMD",
+    "JAY-XMD",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -35,7 +35,7 @@
     },
     "BOT_NAME": {
       "description": "Your bot name",
-      "value": "BWM XMD",
+      "value": "JAY XMD",
       "required": false
     },
     "PREFIX": {
@@ -50,7 +50,7 @@
     },
     "PACKNAME": {
       "description": "Sticker pack name",
-      "value": "BWM XMD",
+      "value": "JAY XMD",
       "required": false
     },
     "TIMEZONE": {
@@ -60,7 +60,7 @@
     },
     "AUTHOR": {
       "description": "Bot author name",
-      "value": "Ibrahimadams",
+      "value": "Jaybreeze",
       "required": false
     },
     "ANTI_CALL": {
